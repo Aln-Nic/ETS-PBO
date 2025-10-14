@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=VendingMachine
+comment1.params=
+comment1.target=VendingMachine()
+comment2.params=item
+comment2.target=void\ addItem(Item)
+comment3.params=amount
+comment3.target=void\ insertMoney(int)
+comment4.params=
+comment4.target=void\ showItems()
+comment5.params=code
+comment5.target=void\ selectItem(java.lang.String)
+comment6.params=code\ qty
+comment6.target=void\ refillItem(java.lang.String,\ int)
+comment7.params=
+comment7.target=void\ showLog()
+numComments=8
